@@ -1,0 +1,5 @@
+RatePerHour=float(input("Enter hourly rate"))
+HoursWorked=int(input("Enter the hours worked"))
+GSalary= (RatePerHour*HoursWorked)
+print("The gross salary is: ")
+print(GSalary)
